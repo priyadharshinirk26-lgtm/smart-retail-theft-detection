@@ -1,2 +1,2 @@
 # smart-retail-theft-detection
-Machine Learning project that predicts student performance using academic and demographic data.
+AI-based retail surveillance system that uses computer vision and deep learning to detect suspicious activities and potential theft in real time.
